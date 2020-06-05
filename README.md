@@ -7,7 +7,7 @@ First try to get the chatbot.py to run by installing python Aiml
 Search for: Install Aiml package python
 
 Once you can get the chatbot aiml app working, then search Google for how to
-install google Cloud to Speech and Peach to Cloud apis. Try out Googles speech api examples before trying the get the talking bot to work.
+install Google Cloud Speech To Text and Text to Speech apis. Try out Googles speech api examples before trying the get the talking bot to work.
 
 You are also going to need to get pygame and pyaudio installed. Please don't try and run the software and ask me to fix it for you. These examples are complicated just do to all the dependancies.
 
